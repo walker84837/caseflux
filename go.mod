@@ -1,4 +1,4 @@
-module github.com/walker84837/caseflux/v2
+module github.com/walker84837/caseflux
 
 go 1.22.4
 
